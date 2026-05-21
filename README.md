@@ -1,3 +1,5 @@
+<img width="640" height="320" alt="Untitled" src="https://github.com/user-attachments/assets/ad89869e-3a3d-47eb-ae2f-c9ede7176707" />
+
 Brazilian E-Commerce Analysis (Power BI)
 📌 Overview
 
